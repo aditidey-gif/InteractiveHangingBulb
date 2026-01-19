@@ -1,4 +1,5 @@
 💡 Interactive Hanging Bulb
+
 An atmospheric web experience featuring a swinging, interactive light bulb built with Vanilla JavaScript and CSS3. This project demonstrates DOM manipulation, CSS physics animations, and dynamic state management.
 
 🌟 Features
