@@ -1,5 +1,8 @@
 💡 **Interactive Hanging Bulb**
 
+![Bulb-on-off](https://github.com/user-attachments/assets/e364d6f5-8243-48ad-b300-cecd0cf97945)
+
+
 An atmospheric web experience featuring a swinging, interactive light bulb built with Vanilla JavaScript and CSS3. This project demonstrates DOM manipulation, CSS physics animations, and dynamic state management.
 
 🌟 **Features**
